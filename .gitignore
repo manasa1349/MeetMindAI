@@ -1,0 +1,23 @@
+# dependencies
+node_modules/
+
+# env files
+.env
+backend/.env
+frontend/.env
+
+# build files
+dist/
+build/
+frontend/dist/
+
+# logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# MongoDB
+.mongo-data/
+.mongo-log/
