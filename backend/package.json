@@ -1,0 +1,25 @@
+{
+  "name": "meetmind-ai-backend",
+  "version": "1.0.0",
+  "description": "MeetMind AI - Backend server",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "seed": "node seed.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "groq-sdk": "^1.1.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.0",
+    "socket.io": "^4.8.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

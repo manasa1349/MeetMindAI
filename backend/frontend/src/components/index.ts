@@ -1,0 +1,11 @@
+export { default as Navbar } from './Navbar';
+export { default as Home } from './Home';
+export { default as Login } from './Login';
+export { default as Register } from './Register';
+export { default as Dashboard } from './Dashboard';
+export { default as CreateMeeting } from './CreateMeeting';
+export { default as UploadMeeting } from './UploadMeeting';
+export { default as Transcript } from './Transcript';
+export { default as Summary } from './Summary';
+export { default as ActionItems } from './ActionItems';
+export { default as Footer } from './Footer';

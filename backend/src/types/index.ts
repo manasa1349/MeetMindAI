@@ -1,0 +1,1 @@
+// This file can be used to define TypeScript types and interfaces for the backend application.
